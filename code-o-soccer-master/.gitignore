@@ -1,0 +1,10 @@
+*
+!.gitignore
+!Attacker.hpp
+!Defender.hpp
+!GoalKeeper.hpp
+!Striker.hpp
+!skills.h
+!skills.cpp
+!Game.hpp
+!README.md
